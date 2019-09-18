@@ -15,9 +15,19 @@ a:hover {
   height: 100vh;
 }
 
+.bg-right-s {
+  background-color: #f2f2f2;
+  height: 250px;
+}
+
 .bg-left {
   background-color: #FF9300;
   height: 100vh;
+}
+
+.bg-left-s {
+  background-color: #FF9300;
+  height: 250px;
 }
 
 .grey {
